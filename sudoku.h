@@ -13,7 +13,8 @@
 
 class sudoku {
 
-
+	public:
+		sudoku();
 };
 
 #endif
